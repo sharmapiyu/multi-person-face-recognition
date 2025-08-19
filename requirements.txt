@@ -1,0 +1,6 @@
+flask
+opencv-python
+pandas
+face_recognition
+ultralytics
+werkzeug
